@@ -10,24 +10,24 @@ This project aims to predict student performance based on various factors such a
 - [Dataset](#dataset)
 - [Model Training](#model-training)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 - [Project Structure](#project-structure)
 
 ## Introduction
+
 In today's educational setting, understanding the key elements that influence a student's academic success is vital for teachers, parents, and decision-makers. This project utilizes machine learning techniques to forecast a student's performance in mathematics by analyzing a variety of contributing factors. By delivering precise predictions, the tool can assist in identifying students who may require additional support and allow for personalized educational strategies.
 
 The Student Performance Prediction project is designed for educational demonstration, showcasing how machine learning can be applied to predict student outcomes. The results are based on a specific dataset and model, and should not be interpreted as absolute or universally applicable predictions. The main objective of this project is to illustrate the complete process of building a machine learning model while shedding light on the factors that impact student achievement.
 
 
 ## Features
+
 - Predicts student performance in mathematics based on multiple factors.
 - Provides insights into the influence of gender, ethnicity, parental level of education, lunch type, and test preparation course on student performance.
 - User-friendly interface for inputting student information and obtaining predictions.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/skprasad117/Predicting-Student-Performance-Using-Machine-Learning.git`
+1. Clone the repository: `git clone https://github.com/zfathii/Predicting-Student-Performance-Using-Machine-Learning.git`
 2. Navigate to the project directory: `cd Predicting-Student-Performance-Using-Machine-Learning`
 3. Install the required dependencies: `pip install -r requirements.txt`
 
@@ -48,14 +48,6 @@ The machine learning model is trained using a supervised learning algorithm, suc
 ## Results
 
 The trained model achieved an accuracy of 85% in predicting student performance in mathematics. The results demonstrate the significant impact of factors such as parental education, test preparation course, and lunch type on student scores.
-
-## Contributing
-
-Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Project Structure
 
