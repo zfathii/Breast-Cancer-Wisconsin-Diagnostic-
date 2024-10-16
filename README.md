@@ -70,7 +70,7 @@ The project has the following structure:
 - `notebook`: This directory contains notebooks used for data exploration and analysis.
 - `src`: This directory contains the source code for the project.
   - `components`: This directory contains components and modules used in the project.
-  - `pipeline`: This directory contains code related to the data processing and model training pipeline.
+  - `pipelines`: This directory contains code related to the data processing and model training pipeline.
 - `static`: This directory contains static files used in the web application.
   - `css`: This directory contains CSS files for styling the web application.
 - `templates`: This directory contains HTML templates used in the web application.
