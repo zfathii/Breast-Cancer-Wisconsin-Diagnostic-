@@ -54,7 +54,7 @@ The trained model achieved an accuracy of 85% in predicting student performance 
 The project has the following structure:
     
     ├───artifacts
-    ├───catboost_info
+    ├───catboost info
     │ └───learn
     ├───notebook
     │ └───data
@@ -66,7 +66,7 @@ The project has the following structure:
     └───templates
 
 - `artifacts`: This directory contains artifacts generated during the model training process.
-- `catboost_info`: This directory stores CatBoost model information.
+- `catboost info`: This directory stores CatBoost model information.
 - `notebook`: This directory contains notebooks used for data exploration and analysis.
 - `src`: This directory contains the source code for the project.
   - `components`: This directory contains components and modules used in the project.
