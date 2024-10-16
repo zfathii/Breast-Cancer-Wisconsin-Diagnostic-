@@ -55,12 +55,12 @@ The project has the following structure:
     
     ├───artifacts
     ├───catboost info
-    │ └───learn
+    │ └───study
     ├───notebook
     │ └───data
     ├───src
     │ ├───components
-    │ └───pipeline
+    │ └───pipelines
     ├───static
     │ └───css
     └───templates
